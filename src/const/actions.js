@@ -1,0 +1,12 @@
+export const POST_ADD = 'POST_ADD';
+export const POST_DELETE = 'POST_DELETE';
+export const SET_AUTHOR_FILTER = 'SET_AUTHOR_FILTER';
+export const SET_TAG_FILTER = 'SET_TAG_FILTER';
+export const SET_NEW_POST_TITLE = 'SET_NEW_POST_TITLE';
+export const SET_NEW_POST_TEXT = 'SET_NEW_POST_TEXT';
+export const SET_NEW_POST_TAGS = 'SET_NEW_POST_TAGS';
+export const CLEAR_NEW_POST = 'CLEAR_NEW_POST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const LOGIN_ERROR_CLEAR = 'LOGIN_ERROR_CLEAR';
